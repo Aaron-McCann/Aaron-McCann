@@ -27,7 +27,7 @@
     <table>
       <tr>
         <td width="70">
-          <img src="[https://upload.wikimedia.org/wikipedia/commons/6/68/Trinity_College_Dublin_logo.svg](https://cdn.ischoolconnect.com/logo/2125.png)" width="60" alt="TCD Logo">
+          <img src="https://www.tcd.ie/identity/assets/downloads/tcd-logo.svg" width="60" alt="TCD Logo">
         </td>
         <td>
           <h3 style="margin: 0">MSc in Computer Engineering</h3>
@@ -36,7 +36,7 @@
       </tr>
       <tr>
         <td width="70">
-          <img src="[https://upload.wikimedia.org/wikipedia/commons/6/68/Trinity_College_Dublin_logo.svg](https://cdn.ischoolconnect.com/logo/2125.png)" width="60" alt="TCD Logo">
+          <img src="https://www.tcd.ie/identity/assets/downloads/tcd-logo.svg" width="60" alt="TCD Logo">
         </td>
         <td>
           <h3 style="margin: 0">BSc in Computer Engineering (Gold Medal)</h3>
@@ -45,7 +45,7 @@
       </tr>
       <tr>
         <td width="70">
-          <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Chalmers_University_of_Technology_logo.svg/1200px-Chalmers_University_of_Technology_logo.svg.png" width="60" alt="Chalmers Logo">
+          <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Chalmers_University_of_Technology_seal.svg/1200px-Chalmers_University_of_Technology_seal.svg.png" width="60" alt="Chalmers Logo">
         </td>
         <td>
           <h3 style="margin: 0">Erasmus Exchange</h3>
@@ -60,7 +60,7 @@
     <table>
       <tr>
         <td width="70">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Twilio_logo.svg/1200px-Twilio_logo.svg.png" width="60" alt="Twilio Logo">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Twilio_logo.svg/2560px-Twilio_logo.svg.png" width="60" alt="Twilio Logo">
         </td>
         <td>
           <h3 style="margin: 0">Incoming Software Engineer</h3>
@@ -69,7 +69,7 @@
       </tr>
       <tr>
         <td width="70">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Infineon_Technologies_logo.svg/2560px-Infineon_Technologies_logo.svg.png" width="60" alt="Infineon Logo">
+          <img src="https://www.logo.wine/a/logo/Infineon_Technologies/Infineon_Technologies-Logo.wine.svg" width="60" alt="Infineon Logo">
         </td>
         <td>
           <h3 style="margin: 0">Software Developer Intern</h3>
@@ -78,7 +78,7 @@
       </tr>
       <tr>
         <td width="70">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Infineon_Technologies_logo.svg/2560px-Infineon_Technologies_logo.svg.png" width="60" alt="Infineon Logo">
+          <img src="https://www.logo.wine/a/logo/Infineon_Technologies/Infineon_Technologies-Logo.wine.svg" width="60" alt="Infineon Logo">
         </td>
         <td>
           <h3 style="margin: 0">AI & Deep Learning Intern</h3>
@@ -87,7 +87,7 @@
       </tr>
       <tr>
         <td width="70">
-          <img src="https://www.unitech-international.org/assets/uploads/2023/03/LIGHT_LOGO.png" width="60" alt="UNITECH Logo">
+          <img src="https://unitech-international.org/wp-content/uploads/2022/09/Logo-web-version.png" width="60" alt="UNITECH Logo">
         </td>
         <td>
           <h3 style="margin: 0">UNITECH International Fellow</h3>
