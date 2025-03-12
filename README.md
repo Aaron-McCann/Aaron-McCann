@@ -27,7 +27,7 @@
     <table>
       <tr>
         <td width="70">
-          <img src="https://www.tcd.ie/identity/assets/downloads/tcd-logo.svg" width="60" alt="TCD Logo">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Blazon_Trinity_College_Dublin.svg" width="60" height="60" alt="TCD Logo" style="border-radius:5px;">
         </td>
         <td>
           <h3 style="margin: 0">MSc in Computer Engineering</h3>
@@ -36,7 +36,7 @@
       </tr>
       <tr>
         <td width="70">
-          <img src="https://www.tcd.ie/identity/assets/downloads/tcd-logo.svg" width="60" alt="TCD Logo">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Blazon_Trinity_College_Dublin.svg" width="60" height="60" alt="TCD Logo" style="border-radius:5px;">
         </td>
         <td>
           <h3 style="margin: 0">BSc in Computer Engineering (Gold Medal)</h3>
@@ -45,7 +45,7 @@
       </tr>
       <tr>
         <td width="70">
-          <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Chalmers_University_of_Technology_seal.svg/1200px-Chalmers_University_of_Technology_seal.svg.png" width="60" alt="Chalmers Logo">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Chalmers_Tekniska_H%C3%B6gskola_logo.svg" width="60" height="60" alt="Chalmers Logo" style="border-radius:5px;">
         </td>
         <td>
           <h3 style="margin: 0">Erasmus Exchange</h3>
@@ -60,7 +60,7 @@
     <table>
       <tr>
         <td width="70">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Twilio_logo.svg/2560px-Twilio_logo.svg.png" width="60" alt="Twilio Logo">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Twilio-logo-red.svg" width="60" height="60" alt="Twilio Logo" style="border-radius:5px;">
         </td>
         <td>
           <h3 style="margin: 0">Incoming Software Engineer</h3>
@@ -87,7 +87,7 @@
       </tr>
       <tr>
         <td width="70">
-          <img src="https://unitech-international.org/wp-content/uploads/2022/09/Logo-web-version.png" width="60" alt="UNITECH Logo">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/UNITECH_International_logo.svg" width="60" height="60" alt="UNITECH Logo" style="border-radius:5px;">
         </td>
         <td>
           <h3 style="margin: 0">UNITECH International Fellow</h3>
