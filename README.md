@@ -27,7 +27,7 @@
     <table>
       <tr>
         <td width="70">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Blazon_Trinity_College_Dublin.svg" width="60" height="60" alt="TCD Logo" style="border-radius:5px;">
+          <img src="https://img.shields.io/badge/-Trinity%20College%20Dublin-446A8A?style=for-the-badge&logoColor=white" alt="TCD Logo">
         </td>
         <td>
           <h3 style="margin: 0">MSc in Computer Engineering</h3>
@@ -36,7 +36,7 @@
       </tr>
       <tr>
         <td width="70">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Blazon_Trinity_College_Dublin.svg" width="60" height="60" alt="TCD Logo" style="border-radius:5px;">
+          <img src="https://img.shields.io/badge/-Trinity%20College%20Dublin-446A8A?style=for-the-badge&logoColor=white" alt="TCD Logo">
         </td>
         <td>
           <h3 style="margin: 0">BSc in Computer Engineering (Gold Medal)</h3>
@@ -45,7 +45,7 @@
       </tr>
       <tr>
         <td width="70">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Chalmers_Tekniska_H%C3%B6gskola_logo.svg" width="60" height="60" alt="Chalmers Logo" style="border-radius:5px;">
+          <img src="https://img.shields.io/badge/-Chalmers-006C5C?style=for-the-badge&logoColor=white" alt="Chalmers Logo">
         </td>
         <td>
           <h3 style="margin: 0">Erasmus Exchange</h3>
@@ -60,7 +60,7 @@
     <table>
       <tr>
         <td width="70">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Twilio-logo-red.svg" width="60" height="60" alt="Twilio Logo" style="border-radius:5px;">
+          <img src="https://img.shields.io/badge/-Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio Logo">
         </td>
         <td>
           <h3 style="margin: 0">Incoming Software Engineer</h3>
@@ -69,7 +69,7 @@
       </tr>
       <tr>
         <td width="70">
-          <img src="https://www.logo.wine/a/logo/Infineon_Technologies/Infineon_Technologies-Logo.wine.svg" width="60" alt="Infineon Logo">
+          <img src="https://img.shields.io/badge/-Infineon-0099FF?style=for-the-badge&logoColor=white" alt="Infineon Logo">
         </td>
         <td>
           <h3 style="margin: 0">Software Developer Intern</h3>
@@ -78,7 +78,7 @@
       </tr>
       <tr>
         <td width="70">
-          <img src="https://www.logo.wine/a/logo/Infineon_Technologies/Infineon_Technologies-Logo.wine.svg" width="60" alt="Infineon Logo">
+          <img src="https://img.shields.io/badge/-Infineon-0099FF?style=for-the-badge&logoColor=white" alt="Infineon Logo">
         </td>
         <td>
           <h3 style="margin: 0">AI & Deep Learning Intern</h3>
@@ -87,7 +87,7 @@
       </tr>
       <tr>
         <td width="70">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/UNITECH_International_logo.svg" width="60" height="60" alt="UNITECH Logo" style="border-radius:5px;">
+          <img src="https://img.shields.io/badge/-UNITECH-1A73E8?style=for-the-badge&logoColor=white" alt="UNITECH Logo">
         </td>
         <td>
           <h3 style="margin: 0">UNITECH International Fellow</h3>
@@ -96,7 +96,7 @@
       </tr>
       <tr>
         <td width="70">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="60" alt="Rocket">
+          <img src="https://img.shields.io/badge/-Rascheb-FF6B6B?style=for-the-badge&logoColor=white" alt="Rascheb">
         </td>
         <td>
           <h3 style="margin: 0">Co-Founder</h3>
