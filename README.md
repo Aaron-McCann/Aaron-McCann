@@ -27,7 +27,7 @@
     <table>
       <tr>
         <td width="70">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Trinity_College_Dublin_logo.svg" width="60" alt="TCD Logo">
+          <img src="[https://upload.wikimedia.org/wikipedia/commons/6/68/Trinity_College_Dublin_logo.svg](https://cdn.ischoolconnect.com/logo/2125.png)" width="60" alt="TCD Logo">
         </td>
         <td>
           <h3 style="margin: 0">MSc in Computer Engineering</h3>
@@ -36,7 +36,7 @@
       </tr>
       <tr>
         <td width="70">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Trinity_College_Dublin_logo.svg" width="60" alt="TCD Logo">
+          <img src="[https://upload.wikimedia.org/wikipedia/commons/6/68/Trinity_College_Dublin_logo.svg](https://cdn.ischoolconnect.com/logo/2125.png)" width="60" alt="TCD Logo">
         </td>
         <td>
           <h3 style="margin: 0">BSc in Computer Engineering (Gold Medal)</h3>
