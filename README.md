@@ -1,110 +1,142 @@
-<div align="center">👨‍💻 Aaron McCann</div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=Machine+Learning+Engineer;MSc+Computer+Engineering+@+Trinity;Deep+Learning+%26+Graph+Neural+Networks;Incoming+Software+Engineer+@+Twilio" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aaron%20McCann&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" />
 </div>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=41B883&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Deep+Learning+Specialist;Graph+Neural+Networks+Expert" alt="Typing SVG" />
+</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/aaron-mccann-">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/aaron-mccann-/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
   </a>
   <a href="mailto:aaronmccann560@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+  </a>
+  <a href="https://github.com/Aaron-McCann">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
   </a>
 </p>
-📊 GitHub Stats
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aaron-McCann&theme=nord&column=7" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aaron-McCann&theme=nord&column=8&no-frame=true&no-bg=true" />
 </div>
-<details open>
-<summary><h2>🧠 About Me</h2></summary>
-pythonCopyclass AaronMcCann:
-    def __init__(self):
-        self.name = "Aaron McCann"
-        self.education = {
-            "MSc": "Computer Engineering @ Trinity College Dublin",
-            "BSc": "Computer Engineering @ Trinity College Dublin (Gold Medal, Top 3%)",
-            "exchange": "Chalmers University of Technology, Sweden"
-        }
-        self.roles = ["Incoming Software Engineer @ Twilio", "Co-founder @ Rascheb"]
-        self.current_focus = "Predicting EV trade landscapes using GNNs and Embeddings"
-        self.location = "Dublin, Ireland"
-        
-    def get_skills(self):
-        return {
-            "languages": ["Python", "C++", "SQL", "HTML/CSS", "JavaScript"],
-            "ml_frameworks": ["TensorFlow", "PyTorch", "Keras", "scikit-learn"],
-            "web_dev": ["React", "Flask"],
-            "cloud": ["AWS"],
-            "databases": ["PostgreSQL"]
-        }
-        
-    def get_interests(self):
-        return ["Deep Learning", "Graph Neural Networks", "Predictive Analytics", 
-                "Software Engineering", "Trade Market Analysis"]
-</details>
-<details open>
-<summary><h2>🚀 Experience</h2></summary>
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> 
+  Education
+</h2>
 <table>
   <tr>
-    <td><img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio"/></td>
-    <td><b>Incoming Software Engineer</b></td>
+    <td width="70">
+      <a href="https://www.tcd.ie/">
+        <img src="https://www.tcd.ie/content/dam/websites/identitymanagement/logos/tcd/tcd-logo.svg" width="60" alt="TCD Logo">
+      </a>
+    </td>
+    <td>
+      <h3 style="margin: 0">MSc in Computer Engineering</h3>
+      <p>Trinity College Dublin</p>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Infineon-0099FF?style=flat-square&logo=infineon&logoColor=white" alt="Infineon"/></td>
-    <td><b>Software Developer Intern</b> - Automated workflows, saving 80% of task time using Python & SQL</td>
+    <td width="70">
+      <a href="https://www.tcd.ie/">
+        <img src="https://www.tcd.ie/content/dam/websites/identitymanagement/logos/tcd/tcd-logo.svg" width="60" alt="TCD Logo">
+      </a>
+    </td>
+    <td>
+      <h3 style="margin: 0">BSc in Computer Engineering (Gold Medal)</h3>
+      <p>Trinity College Dublin</p>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Infineon-0099FF?style=flat-square&logo=infineon&logoColor=white" alt="Infineon"/></td>
-    <td><b>AI & Deep Learning Intern</b> - Predicted emerging EV markets using Keras, GNNs & Embeddings</td>
+    <td width="70">
+      <a href="https://www.chalmers.se/">
+        <img src="https://www.chalmers.se/_next/static/media/chalmers-logo-black.414d7f9b.svg" width="60" alt="Chalmers Logo">
+      </a>
+    </td>
+    <td>
+      <h3 style="margin: 0">Erasmus Exchange</h3>
+      <p>Chalmers University of Technology, Sweden</p>
+    </td>
   </tr>
 </table>
-</details>
-<details open>
-<summary><h2>🛠️ Tech Stack</h2></summary>
-<div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-</div>
-</details>
-<details open>
-<summary><h2>🏆 Projects</h2></summary>
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> 
+  Experience
+</h2>
 <table>
   <tr>
-    <td><img src="https://img.shields.io/badge/-EV_Trade_Prediction-41B883?style=flat-square" alt="EV Trade"/></td>
-    <td>🔮 <b>Master's Thesis:</b> Predicting emerging EV trade markets using Graph Neural Networks & Embeddings</td>
+    <td width="70">
+      <a href="https://www.twilio.com/">
+        <img src="https://assets.twilio.com/public_assets/twilio-logo.svg" width="60" alt="Twilio Logo">
+      </a>
+    </td>
+    <td>
+      <h3 style="margin: 0">Incoming Software Engineer</h3>
+      <p>Twilio</p>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/-Premier_League_Predictor-41B883?style=flat-square" alt="Premier League"/></td>
-    <td>⚽ ML model with 70% accuracy using XGBoost for match outcome prediction</td>
+    <td width="70">
+      <a href="https://www.infineon.com/">
+        <img src="https://www.infineon.com/frontend/release_2022-05/dist/resources/img/logo.svg" width="60" alt="Infineon Logo">
+      </a>
+    </td>
+    <td>
+      <h3 style="margin: 0">Software Developer Intern</h3>
+      <p>Infineon Technologies</p>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/-Public_Transit_Tracker-41B883?style=flat-square" alt="Transit Tracker"/></td>
-    <td>🚆 Real-time transit system using phone sensor data & Irish Rail API (Python, Flask, React, AWS)</td>
+    <td width="70">
+      <a href="https://www.infineon.com/">
+        <img src="https://www.infineon.com/frontend/release_2022-05/dist/resources/img/logo.svg" width="60" alt="Infineon Logo">
+      </a>
+    </td>
+    <td>
+      <h3 style="margin: 0">AI & Deep Learning Intern</h3>
+      <p>Infineon Technologies</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="70">
+      <a href="https://www.unitech-international.org/">
+        <img src="https://www.unitech-international.org/assets/uploads/2023/03/LIGHT_LOGO.png" width="60" alt="UNITECH Logo">
+      </a>
+    </td>
+    <td>
+      <h3 style="margin: 0">UNITECH International Fellow</h3>
+      <p>UNITECH International</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="70">
+      <a href="https://www.linkedin.com/company/raschebb/">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="60" alt="Rocket">
+      </a>
+    </td>
+    <td>
+      <h3 style="margin: 0">Co-Founder</h3>
+      <p><a href="https://www.linkedin.com/company/raschebb/">Rascheb</a></p>
+    </td>
   </tr>
 </table>
-</details>
-<details>
-<summary><h2>🏅 Achievements</h2></summary>
-
-🎖️ Gold Medal for Academic Excellence (Top 3%) at Trinity College Dublin
-🌟 UNITECH International Fellowship - Prestigious program for top 4% of Trinity Engineering students
-📚 Book Prize for Academic Excellence (2021, 2022)
-🏆 Trinity Employability Award (2022)
-
-</details>
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> 
+  Tech Stack
+</h2>
 <div align="center">
-📈 Activity Graph
-Show Image
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaron-McCann&theme=nord" alt="Aaron-McCann" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,javascript,react,flask,aws,postgres,cpp,git&theme=dark" alt="Skills" />
 </div>
-
+<br>
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" /> 
+  GitHub Stats
+</h2>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aaron-McCann&label=Profile%20views&color=41B883&style=flat" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aaron-McCann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="170" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaron-McCann&theme=tokyonight&hide_border=true&background=0D1117" height="170" alt="GitHub Streak">
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-McCann&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages">
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
 </div>
