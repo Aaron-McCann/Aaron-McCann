@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aaron%20McCann&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" />
 </div>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=41B883&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Deep+Learning+Specialist;Graph+Neural+Networks+Expert" alt="Typing SVG" />
-</h3>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aaron-mccann-/">
@@ -98,7 +96,7 @@
       </tr>
       <tr>
         <td width="70">
-          <p align="center">🚀</p>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="60" alt="Rocket">
         </td>
         <td>
           <h3 style="margin: 0">Co-Founder</h3>
