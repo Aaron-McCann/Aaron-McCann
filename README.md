@@ -39,7 +39,7 @@
           <img src="https://img.shields.io/badge/-Trinity%20College%20Dublin-446A8A?style=for-the-badge&logoColor=white" alt="TCD Logo">
         </td>
         <td>
-          <h3 style="margin: 0">BSc in Computer Engineering (Gold Medal)</h3>
+          <h3 style="margin: 0">BSc in Computer Engineering </h3>
           <p>Trinity College Dublin</p>
         </td>
       </tr>
