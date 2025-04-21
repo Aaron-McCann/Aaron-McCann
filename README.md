@@ -81,7 +81,7 @@
           <img src="https://img.shields.io/badge/-Infineon-0099FF?style=for-the-badge&logoColor=white" alt="Infineon Logo">
         </td>
         <td>
-          <h3 style="margin: 0">AI & Deep Learning Intern</h3>
+          <h3 style="margin: 0">Supply Chain Innovation Intern</h3>
           <p>Infineon Technologies</p>
         </td>
       </tr>
