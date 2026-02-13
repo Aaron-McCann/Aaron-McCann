@@ -63,7 +63,7 @@
           <img src="https://img.shields.io/badge/-Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio Logo">
         </td>
         <td>
-          <h3 style="margin: 0">Incoming Software Engineer</h3>
+          <h3 style="margin: 0">Software Engineer (Messaging API)</h3>
           <p>Twilio</p>
         </td>
       </tr>
@@ -81,7 +81,7 @@
           <img src="https://img.shields.io/badge/-Infineon-0099FF?style=for-the-badge&logoColor=white" alt="Infineon Logo">
         </td>
         <td>
-          <h3 style="margin: 0">Supply Chain Innovation Intern</h3>
+          <h3 style="margin: 0">Deep Learning Research Intern</h3>
           <p>Infineon Technologies</p>
         </td>
       </tr>
